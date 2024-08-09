@@ -1,4 +1,4 @@
-### Benvindo ao meu perfil 🥰
+### Bem vindo ao meu perfil 🥰
 - Me chamo Ana laura,sou estudante da escola EE.Manoel Martins
 - Estou aprendendo a programar em javaScript pelo alura
 
